@@ -3,7 +3,7 @@ name: CI Pipeline
 on:
   push:
     branches:
-      - main  # Ou 'master' se for a tua branch principal
+      - master  # Ou 'master' se for a tua branch principal
 
 jobs:
   build:
